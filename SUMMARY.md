@@ -57,4 +57,5 @@
   * [Databases](s3-computing/databases.md)
   * [Digital Citizenship & Cyber Resilience](s3-computing/digital-citizenship-and-cyber-resilience.md)
   * [3D Design & Print](s3-computing/3d-design-and-print.md)
+* [Tools & Resources](tools-and-resources.md)
 
