@@ -86,6 +86,10 @@ Videos can be created in DaVinci Resolve and Blender **Animations** In 3D games,
 
 We can produce skeletal animation data inside Blender
 
+![](../../../.gitbook/assets/image%20%281%29.png)
+
+In this example we can see which elements are textures, which elements are 3D geometry - and - which parts are vertex coloured.
+
 ## Legally Sourcing Assets
 
 There are a number of ways to legally source assets, these include, but are not limited to

@@ -119,7 +119,7 @@ Here is a Blank Template for you to use
 
 Here is an example from an animated Series
 
-![](../../../.gitbook/assets/image%20%281%29.png)
+![](../../../.gitbook/assets/image%20%282%29.png)
 
 ## Motion Tweening
 
