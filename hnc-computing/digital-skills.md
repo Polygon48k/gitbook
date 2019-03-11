@@ -42,6 +42,12 @@ Your report could be presented in one of the following formats;
 * Blog including Images
 * Recorded Presentation
 
+## Harvard Referencing
+
+[https://www.uhi.ac.uk/en/t4-media/one-web/university/library/how-to/UHI-SRG-2014-ENG-FINAL.pdf](https://www.uhi.ac.uk/en/t4-media/one-web/university/library/how-to/UHI-SRG-2014-ENG-FINAL.pdf)
+
+[http://www.citethisforme.com/](http://www.citethisforme.com/)
+
 ## Hardware
 
 All Digital Devices include a processor, memory and storage - types of storage per device
