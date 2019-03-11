@@ -16,12 +16,11 @@ In this Unit you will demonstrate your ability to;
 
 You will present your findings - possible topics include; 
 
-* Photo Sharing 
 * Image Editing 
 * Video Production 
 * Written Content - Articles & Blogs 
 * Wikis
-* Social Media Platforms
+* Sharing
 
 You will analyse how these production methods are achieved across a variety of Digital Devices and Operating Systems - possibilities include;
 
