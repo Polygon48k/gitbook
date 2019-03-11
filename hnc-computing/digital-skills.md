@@ -41,6 +41,7 @@ Your report could be presented in one of the following formats;
 * Website
 * Audio Summary 
 * Blog including Images
+* Recorded Presentation
 
 ## Hardware
 
