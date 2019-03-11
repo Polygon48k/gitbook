@@ -10,6 +10,8 @@ Upon Completion of this Unit you will be able to
 * Produce a Working Demo
 * Evaluate Demo
 
+{% file src="../../../.gitbook/assets/task-sheet.docx" caption="Task Sheet" %}
+
 Commenting Indentation Naming Variables Data Structures Control Structures Operators
 
 ## Pico-8
