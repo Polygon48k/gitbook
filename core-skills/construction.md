@@ -9,6 +9,7 @@ What you will do
 * You will research 3 technical drawing relating to your chosen trade
 * You will research three different prices for the same materials
 * You will save the URL of the CITB page that relates to apprenticeship information
+* Prepare and save a word processing document for your boss or training officer reporting on your performance from your last practical assessment.
 
 What you will submit
 
@@ -17,6 +18,7 @@ What you will submit
 * A comparison of three prices of the same material
 * The URL of the CITB Apprenticeship Page
 * A completed test
+* A completed report to your employer
 
 ## Time Sheet
 
