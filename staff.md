@@ -6,5 +6,3 @@
 
 {% embed url="https://meet.jit.si/NCDigitalMedia" %}
 
-
-
