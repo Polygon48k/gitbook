@@ -9,6 +9,7 @@ In this Unit you will demonstrate your ability to;
 * Research Digital Content Production Methods across multiple Devices 
 * Create Digital Content for a Vocational Purpose 
 * Complete a written Test
+* Minimum 1,400 Words
 
 [Practice Test](https://goo.gl/forms/iPTuAzQ81pD3B0mi1)
 
@@ -41,6 +42,8 @@ Your report could be presented in one of the following formats;
 * Audio Summary 
 * Blog including Images
 * Recorded Presentation
+
+You may to included the history, contemporary examples, rising tools, your first introduction and industry standard in each of your topics.
 
 ## Harvard Referencing
 
