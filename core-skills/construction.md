@@ -42,3 +42,17 @@ You need to complete a closed-book assessment. This will be under supervision.
 
 This practice [test ](https://goo.gl/forms/vTbklpCc5w8THR8j1)will help you to prepare.
 
+## Report
+
+**Prepare and save a word processing document for your boss or training officer reporting on your performance from your last practical assessment.**
+
+The report should include the following information:
+
+* The name of the assessment activity being reported on.
+* A brief description of the work involved \(not less than twenty five words\).
+* The date the assessment was carried out.
+* A summary of your performance in the Employment and Behavioral Skills \(not less than twenty five words\).
+* A summary of any feedback given to you by your assessor on this activity \(not less than twenty five words\).
+
+Save this document on to any ICT device with a suitable file title given.
+
