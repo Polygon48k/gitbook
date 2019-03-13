@@ -23,6 +23,10 @@
 [Pages](https://www.icloud.com/#pages)  
 [MSPaint](https://tutor.neocities.org/mspaint.exe)
 
+[https://www.vectary.com/](https://www.vectary.com/)
+
+[https://spritestack.io/editor/](https://spritestack.io/editor/)
+
 ## Resources <a id="resources"></a>
 
 [https://unsplash.com/](https://unsplash.com/)  
