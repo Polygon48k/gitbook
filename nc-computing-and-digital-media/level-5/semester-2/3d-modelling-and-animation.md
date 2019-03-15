@@ -27,6 +27,8 @@ Animation must be a minimum of 15 seconds
 
 3D objects are made up of point called vertices. These point are joined together by lines called edges. Two or more edges can be filled to create a Face.
 
+{% file src="../../../.gitbook/assets/blender-key-shortcuts.txt" %}
+
 ## Drawing
 
 

@@ -1,0 +1,172 @@
+FOR BLOCKING/LAYOUT ANIMATION; go to ACTION EDITOR(window) > KEY > INTERPOLATION MODE > CONSTANT
+
+
+Cntrl -	
+Shift - camera movement
+
+
+k       - cut mesh/add loop (like max knife tool)
+i       - insert keyframe
+a       - select all
+u       - unwrap when selected
+
+s       - scale
+r       - rotate
+g       - move
+          + x y z for single axis
+
+Shift-d - copy/duplicate
+p       - play in game engine
+n       - bring up context menu
+Ctrl-e  - select edge loop menu/mark seam
+F12     - render frame
+Alt-a   - play animation(looped)
+e       - extrude
+w       - merge/connect verticies
+f       - fill hole
+b       - group select
+Tab     - enter edit mode
+
+Hold Cntrl - snap to grid
+
+Ctrl-j  - combine multiple meshes
+Shift-p - open preview window
+
+Ctrl-p  - make parent, attatch armature (pose mode, then select mesh and shift select armature, ctrl-p, select armature)
+
+
+NUMPAD:
+
+1       - front view
+3       - right view
+8,4,2,6 - move camera in arrow direction
+5       - toggle perspective
+
+D       - draw mode
+
+ARROW KEYS:
+
+up      - forward 10 frames
+down    - backward 10 frames
+left    - back 1 frame
+right   - forward 1 frame
+
+Must add material then select TecFace for texture to show in render
+
+Deslect OSA in render settings to get pixel/crisp textures
+
+Select shadeless for self illumination
+
+
+
+
+To give a plane texture on both side, in edit mode select plane, Ctrl-f and select Twosided
+
+
+aLT-R   - clear rotation
+
+Ctrl-i  - invert selection
+
+Alt-Shift-Click  - Group select
+
+in uv window when draw mode selected pess 'c' to get paint window
+
+P in edit mode = split mesh
+
+
+IPO WINDOW:
+
+Select shapes from dropdown
+
+Press "N" to add DRIVER
+
+I - insert curve
+E - extend mode  (constant)
+T - IPO type     (Linear)
+
+------------------------
+
+Alt-S       - make bones thinner in edit mode
+Shift-s     - selecion menu, move selection to cursor etc.
+
+Ctrl-N      - recalculate roll angles
+
+Ctrl-Alt-C  - add constraint
+
+Shift-f1    - import from other .blend file
+
+
+M           - set marker
+
+--------------------------------
+
+Make animation (walk) follow a path
+
+1. insert path (curve)
+2. add follow path contstraint to armature
+3. go to NLA editor, press 'C' to convert action to strip
+4. Press 'N' on new strip
+5. set replay to bigger number
+6. Control speed, select curve/path
+7. go to IPO window
+8. change type to path
+9. edit speed graph
+
+C when editing path will make it cyclic / loop
+
+
+
+
+
+-------------------------------------------------
+
+GLSL materials
+
+add material
+click texture add new
+go to texture win (buttons sub)
+change type to image
+load image (Zbrush matcaps work great)
+go back to material windows( buttons sub)
+go to texture - map input, change to normal (Nor)
+change material to shadless
+go to game, choose the GLSL option,
+change render mode to textured
+et viola!
+
+
+---------------------------------------------------
+
+record mouse movement!
+
+open ipo window
+select channels. ie xloc and yloc
+Hit Ctrl-R in ipo window
+select playanimation
+hold Ctrl to record
+space to stop
+et Viola!
+
+--------------------------
+
+W when editing shape keys will propergate to all shapes
+
+
+Alt-J      - convert to quads (edit mode, vert mode)
+
+Change influence on IK contraint to do IK FK switching!
+
+-------------------------------
+
+Metaballs
+
+convert to mesh  -  select first ball + Alt-c
+
+--------------------------
+
+Ctrl-t   -  convert to triangles
+
+Alt-j    -  convert to quads
+
+
+trouble with normal?  remove ALL other materials
