@@ -1,4 +1,4 @@
-# Social Media Literacy
+# Social Media Literacy \*
 
 [https://www.sqa.org.uk/sqa/files/nu/H7EB45.pdf](https://www.sqa.org.uk/sqa/files/nu/H7EB45.pdf)
 
