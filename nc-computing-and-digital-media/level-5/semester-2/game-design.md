@@ -2,9 +2,9 @@
 
 [https://www.sqa.org.uk/files/nq/F91511.pdf](https://www.sqa.org.uk/files/nq/F91511.pdf)
 
-[Game Design Document](http://db-design.splashdamage.com.s3-eu-west-1.amazonaws.com/the_art_of_dirty_bomb.pdf)
-
 {% file src="../../../.gitbook/assets/f915\_11\_iofa\_word.doc" caption="Worksheet" %}
+
+## Useful Links
 
 {% embed url="https://www.screenskills.com/education-training/job-profiles/animation-games-and-vfx/games/" %}
 
@@ -12,9 +12,46 @@
 
 ## Technical Specifications
 
+#### Type
+
+Handheld, games console, phone, tablet.
+
+#### Processor
+
+To include the manufacturer - speed and architecture.
+
+#### RAM
+
+To include accurate  size and specification \( DDR4 \), older systems will be more difficult to define as system memory is sometimes on a cartridge or could be expanded.
+
+#### Graphics Configuration
+
+This will include the resolution and colour depth - can also include video capabilities
+
+#### Backing Storage
+
+Modern systems have large amounts of storage built in and also have different SDKs - older systems had no backing storage. Some included battery backup inside cartridges.
+
 ## Input Devices
 
+* Microphones
+* Cameras
+* Joysticks - Analogue
+* Buttons
+* Triggers
+* D-pad - Digital
+* Touch pad
+* Accelerometer
+* Gyroscope
+* GPS
+
 ## Output Devices
+
+* Rumble
+* Lights
+* Display
+* Speakers
+* Ambi-light
 
 ## Design Elements
 
