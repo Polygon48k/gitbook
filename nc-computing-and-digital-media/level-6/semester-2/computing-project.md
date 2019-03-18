@@ -1,2 +1,2 @@
-# Computing Project
+# Computing Project \*
 
