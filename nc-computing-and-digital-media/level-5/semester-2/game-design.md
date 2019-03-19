@@ -10,6 +10,10 @@
 
 {% embed url="https://www.youtube.com/user/McBacon1337" %}
 
+{% embed url="https://www.sqaacademy.org.uk/pluginfile.php/30460/mod\_resource/content/9/12032012/index.html" %}
+
+
+
 ## Technical Specifications
 
 #### Type
