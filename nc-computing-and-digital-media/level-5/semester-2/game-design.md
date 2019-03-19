@@ -48,6 +48,10 @@ Modern systems have large amounts of storage built in and also have different SD
 * Accelerometer
 * Gyroscope
 * GPS
+* Steering Wheel
+* Light Gun
+* Keyboard
+* Mouse
 
 ## Output Devices
 
@@ -56,6 +60,7 @@ Modern systems have large amounts of storage built in and also have different SD
 * Display
 * Speakers
 * Ambi-light
+* Haptic Feedback
 
 ## Design Elements
 
