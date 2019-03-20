@@ -2,7 +2,7 @@
 
 ## Timetable <a id="timetable"></a>
 
-![](https://tutor.neocities.org/time.png)
+![](../.gitbook/assets/tt2.png)
 
 ## Timeline <a id="timeline"></a>
 
