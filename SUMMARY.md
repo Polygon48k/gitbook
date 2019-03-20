@@ -42,6 +42,7 @@
       * [Games Media Assets](nc-computing-and-digital-media/level-6/optional-units/games-media-assets.md)
       * [Digital Forensics](nc-computing-and-digital-media/level-6/optional-units/digital-forensics.md)
 * [Core Skills](core-skills/README.md)
+  * [Check Lists](core-skills/check-lists.md)
   * [Construction](core-skills/construction.md)
   * [Research Project](core-skills/research-project.md)
 * [HNC Computing](hnc-computing/README.md)
