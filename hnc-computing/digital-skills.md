@@ -127,11 +127,35 @@ It is important to consider the quality of the sources that you use, not all sou
 
 ## Digital Presentation
 
+You will being given a brief in which you will present your research findings within a vocational context.
+
+The following are way that you could present your findings digitally
+
 * Video Essay 
 * Website
 * Audio Summary 
 * Blog including Images
 * Recorded Presentation
+
+Video Essay 
+
+In a video essay you would record your findings with a microphone and mix this with video and images of the topics you are discussing. The final video would be submitted in MPEG4 format.
+
+Website
+
+In a Website, you would break down your major topics into different pages and present text and images on each. The final site would be hosted online and you would submit a link.
+
+Audio Summary 
+
+In an Audio Summary you would discuss your findings into a microphone and record it - you would submit your finished file as an MP3 or OGG file
+
+Blog including Images
+
+In a blog you would present your finding using text and images, possible sites to use are [medium.com ](http://medium.com)and [tumblr.com](https://www.tumblr.com/) - Your final submission would be a link
+
+Recorded Presentation
+
+In a presentation you would create a PowerPoint and talk through it - you would record the video of you doing this, and, submit it as an MP4 file
 
 ## Knowledge
 
