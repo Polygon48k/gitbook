@@ -6,10 +6,10 @@
 
 In this Unit you will demonstrate your ability to; 
 
-* Research Digital Content Production Methods across multiple Devices 
-* Create Digital Content for a Vocational Purpose 
-* Complete a written Test
-* Minimum 1,400 Words
+* Perform Research 
+* Write a written report of no less than 1,400 Words
+* Create Digital Content for a Vocational Purpose
+* Complete a Multiple Choice Test 
 
 [Practice Test](https://goo.gl/forms/iPTuAzQ81pD3B0mi1)
 
@@ -55,6 +55,7 @@ Your report should be written in the College Standard Format, this will include
 * Conclusion
 * Bibliography
 * Student Name and Number in the Footer
+* Evaluating Sources
 
 ### Cover Page
 
@@ -112,33 +113,45 @@ An easy tool to create these for you can be found at [http://www.citethisforme.c
 
 By double clicking at the bottom of the page in Word we can enter the footer - any information written here will be included on every page.
 
-## Topics
+### Evaluating Sources
 
+It is important to consider the quality of the sources that you use, not all sources are accurate. The following are a set of Criteria that will help you to evaluate the sources that you use
 
+* Currency - is it up to date?
+* Bias - do they have another motivation? money? politics?
+* Level of Difficulty - how easy was it to access?
+* Objectivity - is this opinion or fact?
+* Accuracy - is the information correct?
+* Authority - Is this coming from an expert?
+* Trustworthy - does this source have a good reputation, have they been wrong before?
 
 ## Digital Presentation
 
-## 
+* Video Essay 
+* Website
+* Audio Summary 
+* Blog including Images
+* Recorded Presentation
 
-## 
+## Knowledge
 
-## Hardware
+### Hardware
 
 All Digital Devices include a processor, memory and storage - types of storage per device
 
 [Additional Information](https://digitalmedia.gitbook.io/project/v/level-55/semester-1/hardware-and-systems)
 
-## Malware
+### Malware
 
 Viruses
 
 Identity theft
 
-## Operating Systems
+### Operating Systems
 
+Android
 
-
-## Health & Safety
+### Health & Safety
 
 Using an external Keyboard
 
@@ -148,7 +161,7 @@ Bullying
 
 Distraction
 
-## Legislation
+### Legislation
 
 [Data Protection Act \(2018\)](https://www.gov.uk/data-protection) 
 
@@ -162,33 +175,9 @@ Distraction
 
 [Police and Justice Act \(2006\)](https://www.legislation.gov.uk/ukpga/2006/48/contents)
 
-Freedom of Information Act
+[Freedom of Information Act](https://www.legislation.gov.uk/ukpga/2000/36/contents)
 
-## Research Skills
-
-Evaluating Sources
-
-
-
-Currency - Up to date 
-
-* Bias - Authority - 
-* Level of Difficulty - 
-* Objectivity - 
-* Accuracy -
-* Search Skills
-
-
-
-![](../.gitbook/assets/image%20%287%29.png)
-
-
-
-Bookmarking
-
-## Media & File Types
-
-
+### Media & File Types
 
 [Additional Information  - Images](https://digitalmedia.gitbook.io/project/v/level-55/semester-1/still-images)
 
@@ -196,7 +185,7 @@ Bookmarking
 
 [Additional Information - Video](https://digitalmedia.gitbook.io/project/v/level-55/semester-1/video-editing)
 
-## Social Media Platforms
+### Social Media Platforms
 
 [Additional Information](https://digitalmedia.gitbook.io/project/v/level-55/semester-1/social-media-literacy)
 
