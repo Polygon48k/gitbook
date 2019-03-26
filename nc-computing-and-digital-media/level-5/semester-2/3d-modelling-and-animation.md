@@ -23,6 +23,10 @@
 
 Animation must be a minimum of 15 seconds
 
+{% embed url="https://www.youtube.com/playlist?list=PLKiZsOwHp9sCPox7OZ-jPQ5cWyJfuBb7A" %}
+
+
+
 ## 3D Objects
 
 3D objects are made up of point called vertices. These point are joined together by lines called edges. Two or more edges can be filled to create a Face.
@@ -98,4 +102,54 @@ We can control mesh deformation by using a skeletal rig
 
 
 ## Software
+
+{% tabs %}
+{% tab title="First Tab" %}
+
+{% endtab %}
+
+{% tab title="Second Tab" %}
+
+{% endtab %}
+
+{% tab title="" %}
+
+{% endtab %}
+
+{% tab title="" %}
+
+{% endtab %}
+
+{% tab title="" %}
+
+{% endtab %}
+
+{% tab title="" %}
+
+{% endtab %}
+
+{% tab title="" %}
+
+{% endtab %}
+
+{% tab title="" %}
+
+{% endtab %}
+
+{% tab title="" %}
+
+{% endtab %}
+
+{% tab title="" %}
+
+{% endtab %}
+
+{% tab title="" %}
+
+{% endtab %}
+
+{% tab title="" %}
+
+{% endtab %}
+{% endtabs %}
 
