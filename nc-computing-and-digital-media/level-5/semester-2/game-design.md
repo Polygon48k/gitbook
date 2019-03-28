@@ -69,6 +69,7 @@ Modern systems have large amounts of storage built in and also have different SD
 * Level/Environment Design
 * Game Mechanics
 * User Interface Design
+* Audio Design
 
 ## Flow Charts
 
