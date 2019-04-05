@@ -127,15 +127,15 @@ For example
 2. Two
 3. Three
 
-##  Comments
+## Comments
 
 We can use comments in HTML to make our code easier to refer back to or pass on to other people. We can also use it to "code out" segments that we want to hide while working on a project. We start a comment with \`\`. Anything in between these marks will be hidden.
 
-\*\*Header\*\* 
+## Header
 
 In HTML the header contains information for the webpage which is not actually shown to the user. We open with \`\` and close with \`\` It is common to include a title, this will show on the tab in the users browser. \`Page Name\` Other common information found in the header include Here is an example of the start of a HTML page. First line tells the browser that it is reading a HTML document. The second line defines the language, which is essential for Google listings. The next line tells the browser the encoding of the text. The next line ensures that common CSS techniques can scale the page. The next line asks the browser to check for the most recent version of the page. The next line defines the page title - which will show on the browser tab The next line defines the page icon - which will show on the browser tab and Bookmarks/Favourites. The next line links to the CSS file. For the purposes of your task your header may look like thisMy Site 
 
-\*\*Footer\*\*
+## Footer
 
  A footer is a common convention in web design where the creator and contact details are shown at the bottom of every page. It is good practice to use the \`\` tag. 
 
@@ -143,19 +143,67 @@ In HTML the header contains information for the webpage which is not actually sh
 
 HTML was written in American English, and, as such all references to colour in it must be made as 'color'. Simple colours in HTML can be referred to by name, for example, \`black\`. However, in order to choose from a wide selection of colours and ensure consistancy across devices and browsers we should use the HEX \( Hexadecimal \) code. Hexidecimal is a system of counting to sixteen by using our normal number set 0-9 and an additional 6 letters. ABCDEF. For black this would be \`\#000000\` This is a light red \`\#E42525\` !\[enter image description here\]\(https://forum.affinity.serif.com/uploads/monthly\_06\_2016/post-28456-0-00801900-1466524081.png\) 
 
-\# CSS
+## CSS
 
 &gt;Backgrounds &gt;Text Styling &gt;Image Styling &gt;Units &gt;Media Queries &gt;Navigation Bar &gt;Comments &gt;Layout CSS \( Cascading Style Sheets \) is a separate language which allows us to style the HTML content. CSS can be stored in a separate file and applied to multiple pages. This file is usually called style.css In order to use a CSS file we must import it into our HTML using the following code in the header. We can also include CSS in the main file by including it between a style tag.  
   
  It is not unusual to import a large standard CSS file The syntax of CSS requires the name of the element followed by a curly bracket, the name of the element, a colon, the unit, a semi-colon and then close the curly bracket element { element: unit; }
 
- \*\*Backgrounds\*\*
+##  Backgrounds
 
- In order to change the background of the page we can use the code body { background-color: black; } or body { background-color: \#000000; } We can also use an image as our background by using body { background-image: url\("back.png"\); } \*\*Text Styling\*\* In order to change the font, size, colour and other characteristics of our \`\` and \`\` tags we can use CSS. h1 { color: green; } A more advanced example is h1 { font-size: 50px; color: green; float: right; text-align: center; } In order to change the font, we need to add h1 { font-family: 'font name'; } However, this will only work if we import the font first. We can choose a webfont from https://fonts.google.com/ and use the code @import url\('https://fonts.googleapis.com/css?family=Roboto'\); Which is normally put at the top of the CSS above all other elements \*\*Image Styling\*\* In order to style all images on a page we can use img img { width: 30%; padding: 5px; } \*\*Units\*\* In CSS a variety of units are available to us, we generally start with \`px\` for pixels. However, due to the different pixel densities of screens we can have different results on different devices. We can use \`vw\` or \`vh\` for viewport width and viewport height respectively. These are percentages and will mean that your site will resize dynamically based on the window size. We call this responsive design. \`em\` is often used, and represents a multiple of the current font size. p { font-size: 50px; font-size: 50em; font-size: 50vw; font-size: 50vw; } \*\*Media Queries\*\* Another way to change how our site displays, based on device screen dimensions, is to use media queries. We define a certain point, after which we can change which CSS is used @media only screen and \(min-width: 768px\) { } By using this example, we define what will happen when loaded on a smartphone by default. Any CSS inside the above code will effect the page on desktop. We can add as many of these as we need to target different devices. \*\*Navigation Bar\*\* A Navigation bar is the element, usually at the top of the page, that lets us navigate to other common pages. This is commonly where you will find Home, About & Contact. A common technique is to create a list and to style it in CSS to create a Navigation Bar. Here is an example of the code required to create a Navigation Bar HTML
+ In order to change the background of the page we can use the code 
+
+body { background-color: black; } 
+
+or 
+
+body { background-color: \#000000; } 
+
+We can also use an image as our background by using
+
+ body { background-image: url\("back.png"\); } 
+
+## Text Styling
+
+In order to change the font, size, colour and other characteristics of our \`\` and \`\` tags we can use CSS.
+
+ h1 { color: green; } 
+
+A more advanced example is 
+
+h1 { font-size: 50px; color: green; float: right; text-align: center; } 
+
+In order to change the font, we need to add 
+
+h1 { font-family: 'font name'; }
+
+However, this will only work if we import the font first. We can choose a webfont from [fonts.google.com](https://fonts.google.com)/ and use the code 
+
+@import url\('https://fonts.googleapis.com/css?family=Roboto'\); 
+
+Which is normally put at the top of the CSS above all other elements 
+
+## Image Styling
+
+In order to style all images on a page we can use img 
+
+img { width: 30%; padding: 5px; } 
+
+## Units
+
+In CSS a variety of units are available to us, we generally start with \`px\` for pixels. However, due to the different pixel densities of screens we can have different results on different devices. We can use \`vw\` or \`vh\` for viewport width and viewport height respectively. These are percentages and will mean that your site will resize dynamically based on the window size. We call this responsive design. \`em\` is often used, and represents a multiple of the current font size. p { font-size: 50px; font-size: 50em; font-size: 50vw; font-size: 50vw; } 
+
+## Media Queries
+
+Another way to change how our site displays, based on device screen dimensions, is to use media queries. We define a certain point, after which we can change which CSS is used @media only screen and \(min-width: 768px\) { } By using this example, we define what will happen when loaded on a smartphone by default. Any CSS inside the above code will effect the page on desktop. We can add as many of these as we need to target different devices. 
+
+## Navigation Bar
+
+A Navigation bar is the element, usually at the top of the page, that lets us navigate to other common pages. This is commonly where you will find Home, About & Contact. A common technique is to create a list and to style it in CSS to create a Navigation Bar. Here is an example of the code required to create a Navigation Bar HTML
 
 [Home](index.html)[About](about.html)[Contact](contact.html)
 
-CSS
+## CSS
 
 ```text
 ul {
