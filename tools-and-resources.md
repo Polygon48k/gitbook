@@ -31,6 +31,8 @@
 
 [https://www.calmlywriter.com/online/](https://www.calmlywriter.com/online/)
 
+[https://www.veed.io/edit](https://www.veed.io/edit)
+
 ## Resources <a id="resources"></a>
 
 [https://unsplash.com/](https://unsplash.com/)  
