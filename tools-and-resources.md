@@ -33,6 +33,8 @@
 
 [https://www.veed.io/edit](https://www.veed.io/edit)
 
+[https://app.clipchamp.com/editor](https://app.clipchamp.com/editor)
+
 ## Resources <a id="resources"></a>
 
 [https://unsplash.com/](https://unsplash.com/)  
