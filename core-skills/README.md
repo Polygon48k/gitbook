@@ -1,6 +1,6 @@
 # Core Skills
 
-
+{% file src="../.gitbook/assets/cover-sheet.doc" caption="Cover Sheet" %}
 
 As part of your Core Skills ICT class, you will produce;
 
