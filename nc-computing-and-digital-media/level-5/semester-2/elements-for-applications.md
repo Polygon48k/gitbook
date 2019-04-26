@@ -15,5 +15,13 @@ The final task requires use of html - refer here [html](https://digitalmedia.git
 
 [Work Sheet](https://tutor.neocities.org/Applications.docx)
 
+Useful sites for sourcing media include
 
+[https://pexels.com/videos/](https://pexels.com/videos/)
+
+[https://unsplash.com/](https://unsplash.com/)
+
+[https://archive.org/](https://archive.org/)
+
+[https://www.jamendo.com/start](https://www.jamendo.com/start)
 
