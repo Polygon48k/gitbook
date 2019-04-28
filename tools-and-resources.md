@@ -22,17 +22,11 @@
 [Word](https://office.live.com/start/Word.aspx)  
 [Pages](https://www.icloud.com/#pages)  
 [MSPaint](https://tutor.neocities.org/mspaint.exe)
-
 [https://www.vectary.com/](https://www.vectary.com/)
-
 [https://spritestack.io/editor/](https://spritestack.io/editor/)
-
 [https://app.teamweek.com/](https://app.teamweek.com/)
-
 [https://www.calmlywriter.com/online/](https://www.calmlywriter.com/online/)
-
 [https://www.veed.io/edit](https://www.veed.io/edit)
-
 [https://app.clipchamp.com/editor](https://app.clipchamp.com/editor)
 
 ## Resources <a id="resources"></a>
@@ -46,16 +40,10 @@
 [http://bbcsfx.acropolis.org.uk/](http://bbcsfx.acropolis.org.uk/)  
 [https://opengameart.org/](https://opengameart.org/)  
 [https://www.textures.com/](https://www.textures.com/)
-
-{% embed url="https://coverr.co/" %}
-
 [https://archive.blender.org/features-gallery/movies/](https://archive.blender.org/features-gallery/movies/)
-
-{% embed url="https://coverr.co/" %}
+[https://coverr.co/](https://coverr.co/)
 
 ## Disability
 
 [https://dictation.io/speech](https://dictation.io/speech)
-
-[https://www.steadymouse.com/](https://www.steadymouse.com/)
-
+[https://www.steadymouse.com/](https://www.steadymouse.com/)
