@@ -47,4 +47,3 @@
 
 [https://dictation.io/speech](https://dictation.io/speech)  
 [https://www.steadymouse.com/](https://www.steadymouse.com/)  
-[www.google.co.uk]
