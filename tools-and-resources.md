@@ -1,6 +1,6 @@
 # Tools & Resources
 
-## Tools <a id="tools"></a>
+## Tools  <a id="tools"></a>
 
 [Vector](https://designer.gravit.io/)  
 [Sculpt](https://stephaneginier.com/sculptgl/)  
@@ -27,9 +27,9 @@
 [https://app.teamweek.com/](https://app.teamweek.com/)  
 [https://www.calmlywriter.com/online/](https://www.calmlywriter.com/online/)  
 [https://www.veed.io/edit](https://www.veed.io/edit)  
-[https://app.clipchamp.com/editor](https://app.clipchamp.com/editor)  
+[https://app.clipchamp.com/editor](https://app.clipchamp.com/editor)
 
-## Resources <a id="resources"></a>
+## Resources  <a id="resources"></a>
 
 [https://unsplash.com/](https://unsplash.com/)  
 [https://videos.pexels.com/](https://videos.pexels.com/)  
@@ -41,9 +41,12 @@
 [https://opengameart.org/](https://opengameart.org/)  
 [https://www.textures.com/](https://www.textures.com/)  
 [https://archive.blender.org/features-gallery/movies/](https://archive.blender.org/features-gallery/movies/)  
-[https://coverr.co/](https://coverr.co/)  
+[https://coverr.co/](https://coverr.co/)
+
+[https://giphy.com/](https://giphy.com/)
 
 ## Disability
 
 [https://dictation.io/speech](https://dictation.io/speech)  
-[https://www.steadymouse.com/](https://www.steadymouse.com/)  
+[https://www.steadymouse.com/](https://www.steadymouse.com/)
+
