@@ -29,6 +29,10 @@
 [https://www.veed.io/edit](https://www.veed.io/edit)  
 [https://app.clipchamp.com/editor](https://app.clipchamp.com/editor)
 
+[https://www.remove.bg/](https://www.remove.bg/)
+
+[https://www.photopea.com/](https://www.photopea.com/)
+
 ## Resources  <a id="resources"></a>
 
 [https://unsplash.com/](https://unsplash.com/)  
