@@ -39,7 +39,7 @@ Useful sites for sourcing media include
 
 **BITMAP** BITMAP .bmp Uncompressed Image, Large Files
 
-**SVG** SVG \( Scalable Vector Graphics \) Vector Graphics Format, Shapes, Paths, Co-ordinates, Great for Logos, Bad for Photos
+**SVG** SVG \( Scalable Vector Graphics \) Vector Graphics Format, Scalability Shapes, Paths, Co-ordinates, Great for Logos, Bad for Photos, Interactivity
 
 **SWF** \( Small Web Format \) Dated - Vector - Animation - Rich Interaction - Weak Security
 
