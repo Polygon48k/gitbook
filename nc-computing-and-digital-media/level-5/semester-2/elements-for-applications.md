@@ -57,6 +57,26 @@ H.265 a smaller format but takes more processing power to encode
 
 AVI - .avi is a video container format - that can be used to hold many different codecs
 
+## Audio Formats
+
+There are many types of commonly used audio formats. Some include File Compression.
+
+**.wav** Uncompressed Waveform - Large file size - High Quality
+
+**.mp3** MPEG Layer-3, lossy compression and granular control of compression
+
+**.ogg** Ogg Vorbis - an open source alternative to MP3
+
+**.flac** A lossless audio format
+
+**.aac** Apples propriety lossless audio format
+
+**Sound Waves** We use two-dimensional visualisations to represent the physical phenomena of sound vibrations moving through the air.
+
+The vertical axis of these representations is described as the amplitude, and can be more easily imagined as the volume.
+
+The horizontal axis of these representations is described as the wavelength
+
 ## Copyright
 
 Adhering to copyright law is essential at all times when working with images. Consequences of ignoring copyright includes fines and imprisonment.
