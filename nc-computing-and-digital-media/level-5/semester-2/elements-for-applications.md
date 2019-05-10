@@ -27,7 +27,7 @@ Useful sites for sourcing media include
 
 [https://www.jamendo.com/start](https://www.jamendo.com/start)
 
-## Formats
+## Image Formats
 
 > JPEG PNG BITMAP GIF RAW SVG
 
@@ -42,6 +42,20 @@ Useful sites for sourcing media include
 **SVG** SVG \( Scalable Vector Graphics \) Vector Graphics Format, Shapes, Paths, Co-ordinates, Great for Logos, Bad for Photos
 
 **SWF** \( Small Web Format \) Dated - Vector - Animation - Rich Interaction - Weak Security
+
+## Video Formats
+
+**MPEG 4** Motion Picture Experts Group .mp4 H.264 is the most common format for transmission online
+
+H.265 a smaller format but takes more processing power to encode
+
+**MPEG 2** Used to master DVD Video \( 4.7 GB \) and Blu-ray Disc \( 50 GB \)
+
+**WebM** An opensource alternative to MP4
+
+**Quicktime** .mov, Apples propriatry video format
+
+AVI - .avi is a video container format - that can be used to hold many different codecs
 
 ## Copyright
 
