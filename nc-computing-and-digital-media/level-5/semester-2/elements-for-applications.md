@@ -27,3 +27,19 @@ Useful sites for sourcing media include
 
 [https://www.jamendo.com/start](https://www.jamendo.com/start)
 
+## Formats
+
+> JPEG PNG BITMAP GIF RAW SVG
+
+**JPEG** JPEG \( Joint Photographic Experts Group \) .jpg .jpeg Millions of colours, no transparency, lossy compression, can set level of compression.
+
+**PNG** PNG \( Portable Network Graphics \) .png Millions of colours, transparency, lossless compression
+
+**GIF** GIF \( Graphics Interchange Format \) .gif 256 Colours, dithering, transparency, animation
+
+**BITMAP** BITMAP .bmp Uncompressed Image, Large Files
+
+**SVG** SVG \( Scalable Vector Graphics \) Vector Graphics Format, Shapes, Paths, Co-ordinates, Great for Logos, Bad for Photos
+
+**SWF** \( Small Web Format \) Dated - Vector - Animation - Rich Interaction - Weak Security
+
