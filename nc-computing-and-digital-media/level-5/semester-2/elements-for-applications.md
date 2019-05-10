@@ -43,3 +43,19 @@ Useful sites for sourcing media include
 
 **SWF** \( Small Web Format \) Dated - Vector - Animation - Rich Interaction - Weak Security
 
+## Copyright
+
+Adhering to copyright law is essential at all times when working with images. Consequences of ignoring copyright includes fines and imprisonment.
+
+If you take the photograph yourself then you will own the image and can sell and licence it.
+
+**Royalty Free License** Pay Once for an image and then you can use it as much as you like after that.
+
+**Rights-Managed License** The images must be use for a specific purpose; such as a specific website, magazine or advert. In order to use elsewhere, you would have to negotiate and purchase the rights again.
+
+**Creative Commons** This license is free to use for non-commercial work but you will still need to attribute the author. There are many types of Creative Commons licences with different rules so it is important to make a note.
+
+Creative Common Zero has no restrictions over how the images can be used.
+
+**Important** You must be sure of were your images have come from, you must be able to reference them and prove their licence. There are lot's of websites that claim to host free to use images but are actually stolen from elsewhere. Only trustworthy sources can be used. If you are in any doubt then DO NOT USE the image.
+
