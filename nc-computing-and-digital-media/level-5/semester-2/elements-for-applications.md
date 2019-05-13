@@ -77,6 +77,22 @@ The vertical axis of these representations is described as the amplitude, and ca
 
 The horizontal axis of these representations is described as the wavelength
 
+
+
+## **Lossy**         
+
+* Control over file size
+* Low quality
+* Small files
+
+**Lossless**    
+
+* Bigger files
+* High Quality
+* Can't control file size
+
+Lossless files are still much smaller than uncompressed files, but larger than lossy files.
+
 ## Copyright
 
 Adhering to copyright law is essential at all times when working with images. Consequences of ignoring copyright includes fines and imprisonment.
