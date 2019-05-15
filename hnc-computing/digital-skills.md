@@ -71,11 +71,11 @@ In order to meet the college standard you should leave a single blank page after
 
 If you highlight all of your headings and change them to 'Heading 1'
 
-![](../.gitbook/assets/image%20%284%29.png)
+![](../.gitbook/assets/image%20%285%29.png)
 
 Then you can you can select Reference, then Table of Contents from the far left - and, it will generate a table of contents for you
 
-![](../.gitbook/assets/image%20%285%29.png)
+![](../.gitbook/assets/image%20%286%29.png)
 
 ### Introduction
 

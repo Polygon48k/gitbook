@@ -1,13 +1,13 @@
 # Core Skills
 
-{% file src="../.gitbook/assets/cover-sheet.doc" caption="Cover Sheet" %}
+![](../.gitbook/assets/image%20%284%29.png)
 
-As part of your Core Skills ICT class, you will produce;
+You will produce four document
 
-* a completed [Research Project Portfolio](https://tutor.neocities.org/Research%20Project%20Portfolio%20Simpler.docx)
-* a completed [Observation Portfolio](https://tutor.neocities.org/Observation%20Portfolio.docx)
-* a written Report
-* a Presentation
+* [Research Project Portfolio](https://tutor.neocities.org/Research%20Project%20Portfolio%20Simpler.docx)
+* [Observation Portfolio](https://tutor.neocities.org/Observation%20Portfolio.docx)
+* Report
+* Presentation
 
 ## Examples
 
