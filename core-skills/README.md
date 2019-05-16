@@ -1,6 +1,6 @@
 # Core Skills
 
-![](../.gitbook/assets/image%20%284%29.png)
+![](../.gitbook/assets/image%20%285%29.png)
 
 You will produce four document
 

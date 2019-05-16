@@ -75,7 +75,7 @@ Modern systems have large amounts of storage built in and also have different SD
 
 {% embed url="https://www.draw.io/" %}
 
-![](../../../.gitbook/assets/image%20%288%29.png)
+![](../../../.gitbook/assets/image%20%289%29.png)
 
 
 
