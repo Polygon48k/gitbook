@@ -1,5 +1,30 @@
 # Still Images
 
+{% tabs %}
+{% tab title="First Tab" %}
+
+{% endtab %}
+
+{% tab title="Outcomes" %}
+* Plan the acquisition of digital still images to meet the requirements of the brief. 
+* Undertake the acquisition of digital still images for a specified brief. 
+* Select, edit and present a portfolio of digital images in a format appropriate to a specified brief. 
+* Evaluate the completed portfolio of digital images and personal contribution to meeting a specified brief.
+{% endtab %}
+
+{% tab title="Specification" %}
+{% embed url="https://www.sqa.org.uk/files/nu/F1KW11.pdf" %}
+{% endtab %}
+
+{% tab title="Example" %}
+
+{% endtab %}
+
+{% tab title="Test" %}
+{% embed url="https://goo.gl/forms/d4ZYIM3n3MAPRXpC3" %}
+{% endtab %}
+{% endtabs %}
+
 ## Digital Media: Still Images
 
 [https://www.sqa.org.uk/files/nu/F1KW11.pdf](https://www.sqa.org.uk/files/nu/F1KW11.pdf)
