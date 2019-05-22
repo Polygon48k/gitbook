@@ -45,6 +45,7 @@
   * [Check Lists](core-skills/check-lists.md)
   * [Construction](core-skills/construction.md)
   * [Research Project](core-skills/research-project.md)
+  * [Test](core-skills/test.md)
 * [HNC Computing](hnc-computing/README.md)
   * [Digital Skills](hnc-computing/digital-skills.md)
 * [Staff](staff.md)
