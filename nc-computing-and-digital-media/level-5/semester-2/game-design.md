@@ -6,7 +6,9 @@
 
 ## Useful Links
 
-{% embed url="https://www.screenskills.com/education-training/job-profiles/animation-games-and-vfx/games/" %}
+{% embed url="https://www.screenskills.com/careers/job-profiles/games/design/lead-games-designer/" %}
+
+
 
 {% embed url="https://www.youtube.com/user/McBacon1337" %}
 
