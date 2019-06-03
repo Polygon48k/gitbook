@@ -33,7 +33,11 @@
 
 [https://www.photopea.com/](https://www.photopea.com/)
 
-[https://grid.layoutit.com/](https://grid.layoutit.com/)
+{% embed url="https://grid.layoutit.com/" %}
+
+[https://jeremyckahn.github.io/mantra/](https://jeremyckahn.github.io/mantra/)
+
+{% embed url="https://editor.beatflyer.com/" %}
 
 ## Resources  <a id="resources"></a>
 
