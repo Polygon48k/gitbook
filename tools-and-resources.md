@@ -39,6 +39,8 @@
 
 {% embed url="https://editor.beatflyer.com/" %}
 
+[https://github.com/LisaDziuba/Awesome-Design-Tools](https://github.com/LisaDziuba/Awesome-Design-Tools)
+
 ## Resources  <a id="resources"></a>
 
 [https://unsplash.com/](https://unsplash.com/)  
