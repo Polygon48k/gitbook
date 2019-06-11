@@ -39,7 +39,11 @@
 
 {% embed url="https://editor.beatflyer.com/" %}
 
-[https://github.com/LisaDziuba/Awesome-Design-Tools](https://github.com/LisaDziuba/Awesome-Design-Tools)
+{% embed url="https://github.com/LisaDziuba/Awesome-Design-Tools" %}
+
+{% embed url="https://make.headliner.app/" %}
+
+[https://wave.video](https://wave.video)
 
 ## Resources  <a id="resources"></a>
 
