@@ -43,7 +43,9 @@
 
 {% embed url="https://make.headliner.app/" %}
 
-[https://wave.video](https://wave.video)
+{% embed url="https://wave.video" %}
+
+[https://icons8.com/ouch/](https://icons8.com/ouch/)
 
 ## Resources  <a id="resources"></a>
 
