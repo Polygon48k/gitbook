@@ -49,5 +49,6 @@
   * [Test](core-skills/test.md)
 * [HNC Computing](hnc-computing/README.md)
   * [Digital Skills](hnc-computing/digital-skills.md)
+* [HNC Digital Design](hnc-digital-design.md)
 * [Tools & Resources](tools-and-resources.md)
 
