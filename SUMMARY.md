@@ -12,6 +12,7 @@
       * [Information Literacy \*](nc-computing-and-digital-media/level-5/semester-1/information-literacy.md)
       * [Social Media Literacy \*](nc-computing-and-digital-media/level-5/semester-1/social-media-literacy.md)
       * [Network Literacy \*](nc-computing-and-digital-media/level-5/semester-1/network-literacy.md)
+      * [TEST](nc-computing-and-digital-media/level-5/semester-1/test.md)
     * [Semester 2](nc-computing-and-digital-media/level-5/semester-2/README.md)
       * [Animation Fundamentals](nc-computing-and-digital-media/level-5/semester-2/animation-fundamentals.md)
       * [3D Modelling and Animation](nc-computing-and-digital-media/level-5/semester-2/3d-modelling-and-animation.md)
