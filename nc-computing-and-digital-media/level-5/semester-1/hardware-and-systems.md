@@ -11,9 +11,9 @@
 3. [ ] Identify the basic functions of an operating system
 4. [ ] Identify the basic functions of a range of application software.
 
-2. Use appropriate procedures for working safely on a computer system
+2.Use appropriate procedures for working safely on a computer system
 
-* [ ] Assess a work area safety. 
+* [ ] Assess a work area safety
 * [ ] Use appropriate tools and techniques to undertake tasks.
 * [ ] Conform to safety procedures and legal constraints.
 
@@ -23,67 +23,35 @@
 * [ ] Install hardware components in a computer system
 * [ ] Install an operating system, utility and application software.
 * [ ] Diagnose and resolve faults.
+
+[Practice Test](https://forms.gle/QUCLwhVoZVDTjhrVA)
 {% endtab %}
 
-{% tab title="Revision" %}
-[https://forms.gle/QUCLwhVoZVDTjhrVA](https://forms.gle/QUCLwhVoZVDTjhrVA)
-{% endtab %}
-{% endtabs %}
-
-## Working Safely
+{% tab title="Health & Safety" %}
+You must power down any PC before attempting maintenance
 
 You will work safely at all times.
 
-> Anti-static Fire Extinguisher No Liquids
->
-> **Static Electricity**
+When working with hardware, we can damage components by touching them and releasing the **static electric** charge from our bodies.
 
-When working with hardware, we can damage components by touching them and releasing the static electric charge from our bodies.
-
-We can use an Anti-static Mat, we can also ensure that we earth ourselves by touching radiators or piping before starting. It is also common to see people using anti-static bracelets.
-
-![Anti-static Mat](https://images-eu.ssl-images-amazon.com/images/I/81CTPtMx6iL._AC_SS350_.jpg)
-
- 
-
-![Anti-static bracelet](https://i.ebayimg.com/images/g/q8AAAOSwv9hW3Gno/s-l300.jpg)
+We can use an **Anti-static Mat**, we can also ensure that we earth ourselves by touching radiators or piping before starting. It is also common to see people using **anti-static bracelets**.
 
 **Fire** In the event of a fire a CO2 \( Carbon Dioxide \) fire extinguisher is available. We use this so that we do not risk electrocution.
 
- 
-
-![C02 Fire Extinguisher](https://www.safelincs.co.uk/templates_safelincs/shopimages/products/high/ultrafire-2kg-co2.jpg)
-
 **Liquids** We never keep open liquid containers near computers.
+{% endtab %}
 
-## Identify & Explain Computer Parts
-
-> CPU GPU Memory Backing Storage Input Output Motherboard
-
+{% tab title="Processor" %}
 **CPU \( Central Processing Unit \)**
 
-![An intel i7 CPU](https://pisces.bbystatic.com/image2/BestBuy_US/images/products/5793/5793127_sa.jpg)
+The **control unit \( CU \)** controls the flow of data within the system. The control unit controls and monitors communications between the hardware attached to the computer. It controls the input and output of data, checks that signals have been delivered successfully, and makes sure that data goes to the correct place at the correct time
 
-The control unit \( CU \) controls the flow of data within the system. The control unit controls and monitors communications between the hardware attached to the computer. It controls the input and output of data, checks that signals have been delivered successfully, and makes sure that data goes to the correct place at the correct time
+The arithmetic and **logic unit \(ALU\)** is where the CPU performs the arithmetic and logic operations. Every calculation that your computer carries out is completed here
 
-The arithmetic and logic unit \(ALU\) is where the CPU performs the arithmetic and logic operations. Every calculation that your computer carries out is completed here
+The **registers** are where the CPU holds all the data and programs that it is currently using. The Data Register holds data. The Address Register references information in RAM
+{% endtab %}
 
-The registers are where the CPU holds all the data and programs that it is currently using. The Data Register holds data. The Address Register references information in RAM
-
-**GPU \( Graphics Processing Unit / Graphics Card \)**
-
- The GPU performs calculations that accelerate the ouput of graphical information - GPU's are highly parrelleled
-
-![A GTX 970 Graphics Card](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbVH1YpHxpjfan8qCbG_i8OaF_7rVO1IrmrtHKynICg6SHXABn)
-
-**Busses**
-
-The information between each component flows through a Bus. Busses transport data, just like they transport people. Buses follow along lines, just like Buses follow along roads.
-
-**Memory**
-
-![Two sticks of Corsair RAM](https://www.lifewire.com/thmb/zmDzgoFMsE7KguBTqZ3B6kMbENE=/768x0/filters:no_upscale%28%29:max_bytes%28150000%29:strip_icc%28%29/corsair_ram-56a6f9a53df78cf77291394b.jpg)
-
+{% tab title="Memory" %}
 RAM \( Random-Access Memory \) is the main place for storing instructions and data whilst a program is being executed.
 
 The more RAM a computer has, the more programs and operations it can handle at the same time.
@@ -91,11 +59,9 @@ The more RAM a computer has, the more programs and operations it can handle at t
 Every memory location has a unique address so that once data has been stored there it can be found again later when it's needed.
 
 When your computer is turned off, you will lose all of your files.
+{% endtab %}
 
-**Backing Storage**
-
-![A Solid State Drive](https://tshop.r10s.com/1fa/ab8/9f7e/b4ca/7126/279c/20da/1192e88dc654ab3a295add.jpg)
-
+{% tab title="Storage" %}
 This is where our files and documents are saved when not being used, this is where images and movies are kept.
 
 Hard Disk Drives, Solid State Drives and USB Stick are all examples of backing storage.
@@ -103,7 +69,19 @@ Hard Disk Drives, Solid State Drives and USB Stick are all examples of backing s
 For large data archive magnetic tape is still used, but are very slow.
 
 When your computer is turned off all your files are safe.
+{% endtab %}
 
+{% tab title="GPU" %}
+**GPU \( Graphics Processing Unit / Graphics Card \)**
+
+ The GPU performs calculations that accelerate the ouput of graphical information - GPU's are highly parrelleled
+
+![A GTX 970 Graphics Card](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbVH1YpHxpjfan8qCbG_i8OaF_7rVO1IrmrtHKynICg6SHXABn)
+
+\*\*\*\*
+{% endtab %}
+
+{% tab title="Input" %}
 **Input**
 
 Inputs are any devices that provide information from the outside world to the computer system. Below are some common examples
@@ -111,7 +89,9 @@ Inputs are any devices that provide information from the outside world to the co
 Mouse Keyboard Touchscreen Gamepad 
 
 ![PlayStation 4 Dual Shock 4 Controller](https://www.lifewire.com/thmb/9xrg4z7E2Fi8irjaLWkwf3zcG88=/768x0/filters:no_upscale%28%29:max_bytes%28150000%29:strip_icc%28%29/DualShock_4-5970c681d963ac00100a4f3f.jpg)
+{% endtab %}
 
+{% tab title="Output" %}
 **Output**
 
 Outputs are any devices that provide information from the computer system to the outside world. Below are some common examples
@@ -120,9 +100,33 @@ Screens Speakers Lights Vibration
 
 ![enter image description here](https://azcd.harveynorman.com.au/media/catalog/product/cache/21/image/992x558/9df78eab33525d08d6e5fb8d27136e95/h/g/hg90_edit_4.png)
 
+\*\*\*\*
+{% endtab %}
+
+{% tab title="Motherboard" %}
 **Motherboard**  All computer components interface with the Motherboard \(MOBO\). It allows components to communicate much faster than using external wires.
 
 ![A modern motherboard](https://static.gigabyte.com/Product/2/4934/9675_big.jpg)
+{% endtab %}
+
+{% tab title="PSU" %}
+**Power Supply**
+
+ The power supply \( PSU \) provied constant current to the components within a computer system. They are rated in Watts i.e 500w
+{% endtab %}
+{% endtabs %}
+
+## 
+
+## 
+
+
+
+**Busses**
+
+The information between each component flows through a Bus. Busses transport data, just like they transport people. Buses follow along lines, just like Buses follow along roads.
+
+\*\*\*\*
 
 **Power Supply**
 
