@@ -1,14 +1,34 @@
 # Hardware & Systems \*
 
-## Computer Hardware and Systems
-
+{% tabs %}
+{% tab title="Outcomes" %}
 [https://www.sqa.org.uk/files/nu/F1KR11.pdf](https://www.sqa.org.uk/files/nu/F1KR11.pdf)
 
-[Practice Test](https://goo.gl/forms/gyelZcJ9DZNHeR8e2) Level 5
+1.Identify the components and functional elements of a computer system
 
-When this unit is complete you will be able to
+1. [ ] Identify the main functional elements of a computer 
+2. [ ] Identify the characteristics of the hardware
+3. [ ] Identify the basic functions of an operating system
+4. [ ] Identify the basic functions of a range of application software.
 
-> Work Safely Identify Computer Parts Explain What these Parts Do Install and Remove Parts Install an Operating System Identify Software Install Software
+2. Use appropriate procedures for working safely on a computer system
+
+* [ ] Assess a work area safety. 
+* [ ] Use appropriate tools and techniques to undertake tasks.
+* [ ] Conform to safety procedures and legal constraints.
+
+3.Upgrade an existing computer system.
+
+* [ ] Identify correct safety procedures for installing hardware
+* [ ] Install hardware components in a computer system
+* [ ] Install an operating system, utility and application software.
+* [ ] Diagnose and resolve faults.
+{% endtab %}
+
+{% tab title="Revision" %}
+[https://forms.gle/QUCLwhVoZVDTjhrVA](https://forms.gle/QUCLwhVoZVDTjhrVA)
+{% endtab %}
+{% endtabs %}
 
 ## Working Safely
 
