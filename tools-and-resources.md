@@ -45,7 +45,9 @@
 
 {% embed url="https://wave.video" %}
 
-[https://icons8.com/ouch/](https://icons8.com/ouch/)
+{% embed url="https://icons8.com/ouch/" %}
+
+[https://www.wesaturate.com/](https://www.wesaturate.com/)
 
 ## Resources  <a id="resources"></a>
 
