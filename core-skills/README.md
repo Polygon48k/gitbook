@@ -1,4 +1,4 @@
-# Core Skills
+# Core Skills ICT
 
 ![](../.gitbook/assets/image%20%285%29.png)
 
