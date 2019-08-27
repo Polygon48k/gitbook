@@ -20,6 +20,14 @@ You will complete a test and 5 tasks
 
 {% file src="../.gitbook/assets/task-1.docx" caption="Task 1" %}
 
+{% file src="../.gitbook/assets/task-2.docx" caption="Task 2" %}
+
+{% file src="../.gitbook/assets/task-3.docx" caption="Task 3" %}
+
+{% file src="../.gitbook/assets/task-4.docx" caption="Task 4" %}
+
+{% file src="../.gitbook/assets/task-5.docx" caption="Task 5" %}
+
 ## Health and Safety
 
 You will work safely at all times.
@@ -225,11 +233,5 @@ GNOME is one of several GUI’s that can be chosen on Linux Distributions.
 MacOS \( Macintosh Operating System \)  
 MacOS was traditionally found in the Design Industry, but, has increasingly become a popular consumer product.
 
-## Test
 
-
-
-## 
-
-##  <a id="working-safely"></a>
 

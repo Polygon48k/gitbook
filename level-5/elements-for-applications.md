@@ -8,6 +8,8 @@ description: F1KS 11
 
 ## Introduction
 
+This unit will give you an introduction to media types such as jpg, png, svg, wav, mp3, mp4 and html.
+
 ## 
 
  
