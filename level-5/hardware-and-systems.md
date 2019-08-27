@@ -8,6 +8,10 @@ description: F1KR 11
 
 ## Introduction <a id="working-safely"></a>
 
+This unit will show you how to install components and software onto a computer system
+
+You will complete a test an 5 tasks
+
 ## Health and Safety
 
 You will work safely at all times.
@@ -212,46 +216,6 @@ GNOME is one of several GUI’s that can be chosen on Linux Distributions.
 ![enter image description here](https://cnet2.cbsistatic.com/img/gu0L2bVDFwIOWcZnyBioIGzvhz4=/1600x900/2016/09/19/8d922fa2-c32b-4bef-9d9e-1c6ecd99e48f/macos-sierra-promo-apple.jpg)  
 MacOS \( Macintosh Operating System \)  
 MacOS was traditionally found in the Design Industry, but, has increasingly become a popular consumer product.
-
-## Tasks
-
-#### Task 1
-
-#### Task 2
-
-#### Unit Information
-
-#### Specification
-
-[https://www.sqa.org.uk/files/nq/F1KR11.pdf](https://www.sqa.org.uk/files/nq/F1KR11.pdf)
-
-#### Outcomes
-
-Outcome 1 
-
-Identify the components and functional elements of a computer system. 
-
-Performance Criteria 
-
-* \(a\) Identify the main functional elements of a computer system. 
-* \(b\) Identify the characteristics of the hardware components. 
-* \(c\) Identify the basic functions of an operating system 
-* \(d\) Identify the basic functions of a range of application software. 
-
-Outcome 2 Use appropriate procedures for working safely on a computer system. 
-
-* \(a\) Assess a work area safety. 
-* \(b\) Use appropriate tools and techniques to undertake tasks. 
-* \(c\) Conform to safety procedures and legal constraints. 
-
-Outcome 3 Upgrade an existing computer system. 
-
-Performance Criteria 
-
-* \(a\) Identify correct safety procedures for installing hardware.
-* \(b\) Install hardware components in a computer system. 
-* \(c\) Install an operating system, utility and application software. 
-* \(d\) Diagnose and resolve faults.
 
 ## Test
 
