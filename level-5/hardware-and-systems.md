@@ -10,7 +10,15 @@ description: F1KR 11
 
 This unit will show you how to install components and software onto a computer system
 
-You will complete a test an 5 tasks
+You will complete a test and 5 tasks
+
+## Practice Test
+
+[https://forms.gle/QUCLwhVoZVDTjhrVA](https://forms.gle/QUCLwhVoZVDTjhrVA)
+
+## Tasks
+
+{% file src="../.gitbook/assets/task-1.docx" caption="Task 1" %}
 
 ## Health and Safety
 
@@ -219,7 +227,7 @@ MacOS was traditionally found in the Design Industry, but, has increasingly beco
 
 ## Test
 
-[https://forms.gle/QUCLwhVoZVDTjhrVA](https://forms.gle/QUCLwhVoZVDTjhrVA)
+
 
 ## 
 
