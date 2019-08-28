@@ -44,4 +44,5 @@
   * [Digital Skills](hnc-computing/digital-skills.md)
 * [HNC Digital Design](hnc-digital-design.md)
 * [Tools & Resources](tools-and-resources.md)
+* [Information](information.md)
 
