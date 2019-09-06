@@ -22,11 +22,11 @@ You will complete a test and 5 tasks
 
 {% file src="../.gitbook/assets/task-2.docx" caption="Task 2" %}
 
-{% file src="../.gitbook/assets/task-3.docx" caption="Task 3" %}
+{% file src="../.gitbook/assets/task-3 \(1\).docx" caption="Task 3" %}
 
 {% file src="../.gitbook/assets/task-4.docx" caption="Task 4" %}
 
-{% file src="../.gitbook/assets/task-5.docx" caption="Task 5" %}
+{% file src="../.gitbook/assets/task-5 \(1\).docx" caption="Task 5" %}
 
 ## Health and Safety
 

@@ -8,6 +8,10 @@ description: H614 45
 
 ## Introduction
 
+In this unit you will learn how to design, develop, host and test and simple website
+
+
+
 [Work Sheet](https://tutor.neocities.org/Web/Work%20Sheet%206.docx)
 
 [Example of Finished Work](https://tutor.neocities.org/Web/Authoring%20a%20Website%206%20Example.zip)
@@ -16,7 +20,9 @@ description: H614 45
 
 W3Schools is a great resource - even developers/designers with decades of experience refer to it regularly
 
-[Work Sheet](https://tutor.neocities.org/Web/Work%20Sheet%205.docx) [ Example of finished Work](https://tutor.neocities.org/Web/Web%20Graphics%205%20Example.zip)
+[Work Sheet](https://tutor.neocities.org/Web/Work%20Sheet%205.docx) [ ](https://tutor.neocities.org/Web/Web%20Graphics%205%20Example.zip)
+
+[Example of finished Work](https://tutor.neocities.org/Web/Web%20Graphics%205%20Example.zip)
 
 ## HTML
 

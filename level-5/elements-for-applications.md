@@ -8,17 +8,35 @@ description: F1KS 11
 
 ## Introduction
 
-This unit will give you an introduction to media types such as jpg, png, svg, wav, mp3, mp4 and html.
+This unit will give you an introduction to media types such as
 
+* jpg
+* png
+* svg
+* wav
+* mp3
+* mp4
+* html
 
+In order to pass this unit you will need to successfully complete the tasks as well as a test
 
-[Work Sheet](https://tutor.neocities.org/Applications.docx)
+## Tasks
+
+{% file src="../.gitbook/assets/task-1 \(1\).docx" caption="Task 1" %}
+
+{% file src="../.gitbook/assets/task-2 \(1\).docx" caption="Task 2" %}
+
+{% file src="../.gitbook/assets/task-3.docx" caption="Task 3" %}
+
+{% file src="../.gitbook/assets/task-4 \(1\).docx" caption="Task 4" %}
+
+{% file src="../.gitbook/assets/task-5.docx" caption="Task 5" %}
 
 ## Test
 
 [Practice Test](https://forms.gle/nNjVNxBrJsbcfkRz6)
 
-
+This is a practice test to help you prepare for the real one, you will take the real one in your class under supervised conditions
 
 ## Resources
 
@@ -34,8 +52,6 @@ Useful sites for sourcing media include
 
 ## Image Formats
 
-> JPEG PNG BITMAP GIF RAW SVG
-
 **JPEG** JPEG \( Joint Photographic Experts Group \) .jpg .jpeg Millions of colours, no transparency, lossy compression, can set level of compression.
 
 **PNG** PNG \( Portable Network Graphics \) .png Millions of colours, transparency, lossless compression
@@ -44,7 +60,7 @@ Useful sites for sourcing media include
 
 **BITMAP** BITMAP .bmp Uncompressed Image, Large Files
 
-**SVG** SVG \( Scalable Vector Graphics \) Vector Graphics Format, Scalability Shapes, Paths, Co-ordinates, Great for Logos, Bad for Photos, Interactivity
+**SVG** \( Scalable Vector Graphics \) Vector Graphics Format, Scalability Shapes, Paths, Co-ordinates, Great for Logos, Bad for Photos, Interactivity
 
 **SWF** \( Small Web Format \) Dated - Vector - Animation - Rich Interaction - Weak Security
 
@@ -58,9 +74,9 @@ H.265 a smaller format but takes more processing power to encode
 
 **WebM** An opensource alternative to MP4
 
-**Quicktime** .mov, Apples propriatry video format
+**Quicktime** .mov, Apples proprietary video format
 
-AVI - .avi is a video container format - that can be used to hold many different codecs
+**AVI** - .avi is a video container format - that can be used to hold many different codecs
 
 ## Audio Formats
 
@@ -76,7 +92,7 @@ There are many types of commonly used audio formats. Some include File Compressi
 
 **.aac** Apples propriety lossless audio format
 
-**Sound Waves** We use two-dimensional visualisations to represent the physical phenomena of sound vibrations moving through the air.
+**Sound Waves** We use two-dimensional visualizations to represent the physical phenomena of sound vibrations moving through the air.
 
 The vertical axis of these representations is described as the amplitude, and can be more easily imagined as the volume.
 
@@ -84,7 +100,29 @@ The horizontal axis of these representations is described as the wavelength
 
 ## Html
 
-The final task requires use of html - refer here [html](https://digitalmedia.gitbook.io/project/v/level-55/semester-1/web-graphics)
+Task 5 requires the use of basic html
+
+### Images
+
+```markup
+<img src="filename">
+```
+
+### Audio
+
+```markup
+<audio controls>
+  <source src="filename">
+</audio>
+```
+
+### Video
+
+```markup
+<video controls>
+  <source src="filename">
+</video>
+```
 
 ## **Compression**
 
