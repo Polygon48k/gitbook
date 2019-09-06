@@ -2,8 +2,8 @@
 
 * [Home](README.md)
 * [NC Computing with Digital Media Level 5](level-5/README.md)
-  * [Computing: Computer Hardware and Systems \(SCQF level 5\)](level-5/hardware-and-systems.md)
   * [Computing: Digital Media Elements for Applications \(SCQF level 5\)](level-5/elements-for-applications.md)
+  * [Computing: Computer Hardware and Systems \(SCQF level 5\)](level-5/hardware-and-systems.md)
   * [Computing: Applications Development \(SCQF level 5\)](level-5/application-development.md)
   * [Computing: Project \(SCQF level 5\)](level-5/computing-project.md)
   * [Information Literacy \(SCQF level 5\)](level-5/information-literacy.md)

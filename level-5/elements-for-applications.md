@@ -10,15 +10,17 @@ description: F1KS 11
 
 This unit will give you an introduction to media types such as jpg, png, svg, wav, mp3, mp4 and html.
 
-## 
 
- 
-
-The knowledge required to edit and produce media elements is built on the tasks you have already completed
-
-The final task requires use of html - refer here [html](https://digitalmedia.gitbook.io/project/v/level-55/semester-1/web-graphics)
 
 [Work Sheet](https://tutor.neocities.org/Applications.docx)
+
+## Test
+
+[Practice Test](https://forms.gle/nNjVNxBrJsbcfkRz6)
+
+
+
+## Resources
 
 Useful sites for sourcing media include
 
@@ -80,7 +82,9 @@ The vertical axis of these representations is described as the amplitude, and ca
 
 The horizontal axis of these representations is described as the wavelength
 
+## Html
 
+The final task requires use of html - refer here [html](https://digitalmedia.gitbook.io/project/v/level-55/semester-1/web-graphics)
 
 ## **Compression**
 
@@ -114,7 +118,5 @@ Creative Common Zero has no restrictions over how the images can be used.
 
 **Important** You must be sure of were your images have come from, you must be able to reference them and prove their licence. There are lot's of websites that claim to host free to use images but are actually stolen from elsewhere. Only trustworthy sources can be used. If you are in any doubt then DO NOT USE the image.
 
-## Test
-
-[Practice Test](https://forms.gle/nNjVNxBrJsbcfkRz6)
+## 
 
