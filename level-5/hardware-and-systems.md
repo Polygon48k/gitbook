@@ -233,5 +233,9 @@ GNOME is one of several GUI’s that can be chosen on Linux Distributions.
 MacOS \( Macintosh Operating System \)  
 MacOS was traditionally found in the Design Industry, but, has increasingly become a popular consumer product.
 
+## Playlist
+
+{% embed url="https://youtu.be/pVzRTmdd9j0" %}
+
 
 
