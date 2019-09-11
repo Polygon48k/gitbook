@@ -45,6 +45,7 @@
 * [HNC Digital Design](hnc-digital-design/README.md)
   * [Digital Graphics Fundamentals](hnc-digital-design/digital-graphics-fundamentals.md)
   * [Digital Media: Video](hnc-digital-design/digital-media-video.md)
+* [Certificate](ccfe.md)
 * [Tools & Resources](tools-and-resources.md)
 * [Information](information.md)
 
