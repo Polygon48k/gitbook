@@ -10,6 +10,8 @@ When this unit is complete you will be able to
 
 > Work Safely Identify Computer Parts Explain What these Parts Do Install and Remove Parts Install an Operating System Identify Software Install Software
 
+{% embed url="https://www.youtube.com/watch?v=8UyJMiYqvs4" %}
+
 ## Working Safely
 
 You will work safely at all times.

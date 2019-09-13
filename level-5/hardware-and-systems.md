@@ -26,7 +26,9 @@ You will complete a test and 5 tasks
 
 {% file src="../.gitbook/assets/task-4.docx" caption="Task 4" %}
 
-{% file src="../.gitbook/assets/task-5 \(1\).docx" caption="Task 5" %}
+## 
+
+{% embed url="https://www.youtube.com/watch?v=8UyJMiYqvs4" %}
 
 ## Health and Safety
 
