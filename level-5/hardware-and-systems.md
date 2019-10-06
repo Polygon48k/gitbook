@@ -111,7 +111,7 @@ Hard Disk Drives, Solid State Drives and USB Stick are all examples of backing s
 
 For large data archive magnetic tape is still used, but are very slow.
 
-When your computer is turned off all your files are safe.
+When your c\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#mputer is turned off all your files are safe.
 
 **Input**
 
@@ -144,8 +144,10 @@ All computer components interface with the Motherboard \(MOBO\). It allows compo
 
 **Power Supply**
 
-![A Corsair 500w power supply](https://www.hotdeals4less.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/c/x/cxm500_sideview_cable.png)  
+  
 The power supply \( PSU \) provied constant current to the components within a computer system. They are rated in Watts i.e 500w
+
+![](../.gitbook/assets/image%20%289%29.png)
 
 #### Install and Remove Parts
 
@@ -197,8 +199,10 @@ A command line interface is where you type commands directly into the Operating 
 MS-DOS was the most popular consumer OS up until the widespread adoption of Windows
 
 **Linux Terminal**  
-![Screenshot of Elementary OS terminal](https://4bds6hergc-flywheel.netdna-ssl.com/wp-content/uploads/2016/09/elementary-os-terminal-loki.jpeg)  
+  
 The linux terminal predates the GUI. In Linux you can choose your preffered GUI.
+
+![](../.gitbook/assets/image%20%287%29.png)
 
 It is still common for many Linux users to perform tasks in the terminal.
 
@@ -221,8 +225,10 @@ Common examples of a GUI include;
 
 **Windows 10**
 
-![Screenshot of a fresh install of Windows 10](https://upload.wikimedia.org/wikipedia/en/f/fa/Windows_10_1803.png)  
+  
 Windows 10 is the most recent version of windows. The computers at College use Windows 10.
+
+![](../.gitbook/assets/image%20%282%29.png)
 
 **GNOME**
 
