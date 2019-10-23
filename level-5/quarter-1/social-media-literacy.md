@@ -70,9 +70,7 @@ Open-Source Open Source Projects are usually developed completely online - notab
 
 Marketing Social Media is an essential tool for marketing as it allows you to get your message out to a large number of people quicker than traditional methods. For a small fee you can boost your message even further.
 
-## Tasks
 
-## Test
 
 \*\*\*\*
 
