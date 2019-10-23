@@ -2,7 +2,7 @@
 
 [https://www.sqa.org.uk/files/nu/H6S746.pdf](https://www.sqa.org.uk/files/nu/H6S746.pdf)
 
-{% file src="../.gitbook/assets/computing-project-team.docx" caption="Worksheet" %}
+{% file src="../../.gitbook/assets/computing-project-team.docx" caption="Worksheet" %}
 
 Outcome 1
 
