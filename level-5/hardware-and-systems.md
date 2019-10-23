@@ -10,7 +10,7 @@ description: F1KR 11
 
 This unit will show you how to install components and software onto a computer system
 
-You will complete a test and 5 tasks
+You will complete a test and a practical assessment
 
 ## Practice Test
 

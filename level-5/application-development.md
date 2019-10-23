@@ -8,7 +8,7 @@ description: H6S9 45
 
 ## Introduction
 
-This unit has being delivered by Charles
+This unit has being delivered by Charles - you will be planning and developing an app using web languages
 
 * Cordova
 * Web Apps

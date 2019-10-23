@@ -10,7 +10,7 @@ description: H6S7 45
 
 ## Introduction
 
-## Tasks
+In this unit you will demonstrate your ability to work together in teams - you will design and develop and application/site as a group
 
 
 

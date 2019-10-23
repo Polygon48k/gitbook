@@ -4,13 +4,11 @@ description: H7E9 45
 
 # Information Literacy \(SCQF level 5\)
 
-
-
 [https://www.sqa.org.uk/sqa/files/nu/H7E945.pdf](https://www.sqa.org.uk/sqa/files/nu/H7E945.pdf)
 
 ## Introduction
 
-## Tasks
+In this unit you will learn the difference between data and information
 
 ## Test
 
@@ -19,6 +17,6 @@ description: H7E9 45
 This test will demonstrate your ability to;
 
 * Describe the value of information
-* Organise information using information tools
+* Organize information using information tools
 * Solve routine problems using information.
 
