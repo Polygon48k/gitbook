@@ -2,7 +2,7 @@
 description: F1KB 11
 ---
 
-# Computing: Animation Fundamentals \(SCQF level 5\)
+# Animation Fundamentals
 
 [https://www.sqa.org.uk/files/nu/F1KB11.pdf](https://www.sqa.org.uk/files/nu/F1KB11.pdf)
 
@@ -100,11 +100,11 @@ Large arrows can be used to indicate direction of movement
 
 Here is a Blank Template for you to use
 
-![](../.gitbook/assets/storyboard.png)
+![](../../.gitbook/assets/storyboard.png)
 
 Here is an example from an animated Series
 
-![](../.gitbook/assets/image%20%285%29.png)
+![](../../.gitbook/assets/image%20%285%29.png)
 
 ## Motion Tweening
 

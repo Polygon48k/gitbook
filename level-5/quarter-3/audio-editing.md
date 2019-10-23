@@ -2,7 +2,7 @@
 description: F1KT 11
 ---
 
-# Digital Media: Audio Editing \(SCQF level 5\)
+# Audio Editing
 
 [http://www.sqa.org.uk/files/nu/F1KT11.pdf](http://www.sqa.org.uk/files/nu/F1KT11.pdf)
 

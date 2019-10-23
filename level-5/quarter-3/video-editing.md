@@ -2,7 +2,7 @@
 description: F1KV 11
 ---
 
-# Digital Media: Video Editing \(SCQF level 5\)
+# Video Editing
 
 [https://www.sqa.org.uk/files/nu/F1KV11.pdf](https://www.sqa.org.uk/files/nu/F1KV11.pdf)
 

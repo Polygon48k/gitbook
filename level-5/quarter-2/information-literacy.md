@@ -2,7 +2,7 @@
 description: H7E9 45
 ---
 
-# Information Literacy \(SCQF level 5\)
+# Information Literacy
 
 [https://www.sqa.org.uk/sqa/files/nu/H7E945.pdf](https://www.sqa.org.uk/sqa/files/nu/H7E945.pdf)
 

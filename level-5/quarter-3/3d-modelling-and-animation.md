@@ -2,7 +2,7 @@
 description: FN91 11
 ---
 
-# 3D Modelling and Animation: An Introduction\(SCQF Level 5\)
+# 3D Modelling and Animation
 
 [https://www.sqa.org.uk/files/nu/FN9111.pdf](https://www.sqa.org.uk/files/nu/FN9111.pdf)
 
@@ -20,7 +20,7 @@ description: FN91 11
 
 3D objects are made up of point called vertices. These point are joined together by lines called edges. Two or more edges can be filled to create a Face.
 
-{% file src="../.gitbook/assets/blender-key-shortcuts.txt" %}
+{% file src="../../.gitbook/assets/blender-key-shortcuts.txt" %}
 
 ## Drawing
 

@@ -2,7 +2,7 @@
 description: F1KS 11
 ---
 
-# Computing: Digital Media Elements for Applications \(SCQF level 5\)
+# Digital Media Elements for Applications
 
 [https://www.sqa.org.uk/files/nu/F1KS11.pdf](https://www.sqa.org.uk/files/nu/F1KS11.pdf)
 
@@ -22,15 +22,15 @@ In order to pass this unit you will need to successfully complete the tasks as w
 
 ## Tasks
 
-{% file src="../.gitbook/assets/task-1 \(1\).docx" caption="Task 1" %}
+{% file src="../../.gitbook/assets/task-1 \(1\).docx" caption="Task 1" %}
 
-{% file src="../.gitbook/assets/task-2 \(1\).docx" caption="Task 2" %}
+{% file src="../../.gitbook/assets/task-2 \(1\).docx" caption="Task 2" %}
 
-{% file src="../.gitbook/assets/task-3.docx" caption="Task 3" %}
+{% file src="../../.gitbook/assets/task-3.docx" caption="Task 3" %}
 
-{% file src="../.gitbook/assets/task-4 \(1\).docx" caption="Task 4" %}
+{% file src="../../.gitbook/assets/task-4 \(1\).docx" caption="Task 4" %}
 
-{% file src="../.gitbook/assets/task-5.docx" caption="Task 5" %}
+{% file src="../../.gitbook/assets/task-5.docx" caption="Task 5" %}
 
 ## Test
 
@@ -98,7 +98,7 @@ The vertical axis of these representations is described as the amplitude, and ca
 
 The horizontal axis of these representations is described as the wavelength
 
-![](../.gitbook/assets/image%20%2811%29.png)
+![](../../.gitbook/assets/image%20%2811%29.png)
 
 ## Html
 

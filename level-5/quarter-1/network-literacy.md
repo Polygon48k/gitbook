@@ -2,7 +2,7 @@
 description: H7EA 45
 ---
 
-# Network Literacy \(SCQF level 5\)
+# Network Literacy
 
 [https://www.sqa.org.uk/files/nq/H7EA45.pdf](https://www.sqa.org.uk/files/nq/H7EA45.pdf)
 

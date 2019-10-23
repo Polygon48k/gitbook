@@ -2,7 +2,7 @@
 description: F1KR 11
 ---
 
-# Computing: Computer Hardware and Systems \(SCQF level 5\)
+# Hardware and Systems
 
 [https://www.sqa.org.uk/files/nq/F1KR11.pdf](https://www.sqa.org.uk/files/nq/F1KR11.pdf)
 
@@ -18,13 +18,13 @@ You will complete a test and a practical assessment
 
 ## Tasks
 
-{% file src="../.gitbook/assets/task-1.docx" caption="Task 1" %}
+{% file src="../../.gitbook/assets/task-1.docx" caption="Task 1" %}
 
-{% file src="../.gitbook/assets/task-2.docx" caption="Task 2" %}
+{% file src="../../.gitbook/assets/task-2.docx" caption="Task 2" %}
 
-{% file src="../.gitbook/assets/task-3 \(1\).docx" caption="Task 3" %}
+{% file src="../../.gitbook/assets/task-3 \(1\).docx" caption="Task 3" %}
 
-{% file src="../.gitbook/assets/task-4.docx" caption="Task 4" %}
+{% file src="../../.gitbook/assets/task-4.docx" caption="Task 4" %}
 
 ## 
 
@@ -147,7 +147,7 @@ All computer components interface with the Motherboard \(MOBO\). It allows compo
   
 The power supply \( PSU \) provied constant current to the components within a computer system. They are rated in Watts i.e 500w
 
-![](../.gitbook/assets/image%20%289%29.png)
+![](../../.gitbook/assets/image%20%289%29.png)
 
 #### Install and Remove Parts
 
@@ -202,7 +202,7 @@ MS-DOS was the most popular consumer OS up until the widespread adoption of Wind
   
 The linux terminal predates the GUI. In Linux you can choose your preffered GUI.
 
-![](../.gitbook/assets/image%20%287%29.png)
+![](../../.gitbook/assets/image%20%287%29.png)
 
 It is still common for many Linux users to perform tasks in the terminal.
 
@@ -228,7 +228,7 @@ Common examples of a GUI include;
   
 Windows 10 is the most recent version of windows. The computers at College use Windows 10.
 
-![](../.gitbook/assets/image%20%282%29.png)
+![](../../.gitbook/assets/image%20%282%29.png)
 
 **GNOME**
 

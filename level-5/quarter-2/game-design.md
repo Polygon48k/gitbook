@@ -2,7 +2,7 @@
 description: F915 11
 ---
 
-# Computer Games: Design \(SCQF level 5\)
+# Games Design
 
 [https://www.sqa.org.uk/files/nq/F91511.pdf](https://www.sqa.org.uk/files/nq/F91511.pdf)
 
@@ -81,7 +81,7 @@ Modern systems have large amounts of storage built in and also have different SD
 
 {% embed url="https://www.draw.io/" %}
 
-![](../.gitbook/assets/image%20%2813%29.png)
+![](../../.gitbook/assets/image%20%2813%29.png)
 
 
 
@@ -89,7 +89,7 @@ Modern systems have large amounts of storage built in and also have different SD
 
 ## Test
 
-{% file src="../.gitbook/assets/f915\_11\_iofa\_word.doc" caption="Worksheet" %}
+{% file src="../../.gitbook/assets/f915\_11\_iofa\_word.doc" caption="Worksheet" %}
 
 
 
