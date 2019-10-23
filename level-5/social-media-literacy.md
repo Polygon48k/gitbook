@@ -8,6 +8,8 @@ description: H7EB 45
 
 ## Introduction
 
+This unit will introduce you to the history, impact and issues of social media - you will also demonstrate your ability to communicate using social media
+
 ## **History**
 
 Web 2.0 
