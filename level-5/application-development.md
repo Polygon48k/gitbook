@@ -8,13 +8,11 @@ description: H6S9 45
 
 ## Introduction
 
-This year this unit has been delivered by Charles
+This unit has being delivered by Charles
 
-All resources can be accessed through the email group
-
-## Tasks
-
-## Test
+* Cordova
+* Web Apps
+* [https://phonegap.com/](https://phonegap.com/)
 
 
 
