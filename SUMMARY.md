@@ -17,7 +17,7 @@
     * [Audio Editing](level-5/quarter-3/audio-editing.md)
     * [Video Editing](level-5/quarter-3/video-editing.md)
   * [Quarter 4](level-5/quarter-4/README.md)
-    * [Computing: Project \(SCQF level 5\)](level-5/quarter-4/computing-project.md)
+    * [Computing Project](level-5/quarter-4/computing-project.md)
 * [NC Computing with Digital Media Level 6](level-6/README.md)
   * [Quarter 1](level-6/quarter-1/README.md)
     * [Academic Skills](level-6/quarter-1/academic-skills.md)
