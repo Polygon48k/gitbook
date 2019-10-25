@@ -2,5 +2,5 @@
 
 Begins 11th November
 
-![](../../.gitbook/assets/q2.png)
+![](../../.gitbook/assets/2.png)
 
