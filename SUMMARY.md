@@ -52,4 +52,5 @@
 * [Certificate](ccfe.md)
 * [Tools & Resources](tools-and-resources.md)
 * [Information](information.md)
+* [Higher Photography](higher-photography.md)
 
