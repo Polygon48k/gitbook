@@ -32,12 +32,6 @@ In order to pass this unit you will need to successfully complete the tasks as w
 
 {% file src="../../.gitbook/assets/task-5.docx" caption="Task 5" %}
 
-## Test
-
-[Practice Test](https://forms.gle/nNjVNxBrJsbcfkRz6)
-
-This is a practice test to help you prepare for the real one, you will take the real one in your class under supervised conditions
-
 ## Resources
 
 Useful sites for sourcing media include

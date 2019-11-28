@@ -108,11 +108,7 @@ Primarily a raster image editing tool, this software includes features for touch
 
 Primarily a vector graphics image editing tool, this software includes features for layout and design, and, exporting to a range of formats.
 
-## Tasks
 
-## Test
-
-[Practice Test](https://goo.gl/forms/d4ZYIM3n3MAPRXpC3) Level 5
 
 
 
