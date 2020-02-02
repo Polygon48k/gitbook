@@ -38,3 +38,7 @@ Render garment drawings using fashion illustration software.
 
 ![Excercise 6](.gitbook/assets/pen-tool_exercise6.png)
 
+## Collections
+
+We can use Google Collections [https://www.google.com/collections](https://www.google.com/collections) to save images that inspire us - we can then use these as a mood board
+
