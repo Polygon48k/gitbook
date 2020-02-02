@@ -53,4 +53,5 @@
 * [Tools & Resources](tools-and-resources.md)
 * [Information](information.md)
 * [Higher Photography](higher-photography.md)
+* [NC Fashion & Textiles](nc-fashion-and-textiles.md)
 
