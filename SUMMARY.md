@@ -53,5 +53,9 @@
 * [Tools & Resources](tools-and-resources.md)
 * [Information](information.md)
 * [Higher Photography](higher-photography.md)
-* [NC Fashion & Textiles](nc-fashion-and-textiles.md)
+* [NC Fashion & Textiles](nc-fashion-and-textiles/README.md)
+  * [Digital Fashion Illustration](nc-fashion-and-textiles/digital-fashion-illustration/README.md)
+    * [Week 1](nc-fashion-and-textiles/digital-fashion-illustration/week-1.md)
+    * [Week 2](nc-fashion-and-textiles/digital-fashion-illustration/week-2.md)
+    * [Week 3](nc-fashion-and-textiles/digital-fashion-illustration/week-3.md)
 
