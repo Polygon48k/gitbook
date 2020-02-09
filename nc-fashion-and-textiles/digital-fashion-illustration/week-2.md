@@ -6,6 +6,8 @@ Save all of your completed excercise in a new folder called 'Digital Fashion Ill
 
 You must use a meaningfull, descriptive name that will give context to the file when you look back at it after time has passed
 
+.ai files are Adobe Ilustrator files that can be edited, file types .jpg .png will be easily readable but will not be editiable
+
 ## Excercises
 
 ![1](../../.gitbook/assets/pen-tool_exercise7.png)
