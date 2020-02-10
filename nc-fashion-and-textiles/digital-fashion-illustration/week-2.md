@@ -110,23 +110,3 @@ Try using
 * gradients
 * booleans
 
-## Vector Coding
-
-![](../../.gitbook/assets/code-vector-copy.svg)
-
-We can download this file and open it in a text readed to see how the information is recorded -this is what you would see
-
-```text
-<svg width="100%" height="100%" viewBox="0 0 892 735" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
-<rect id="Artboard1" x="0" y="0" width="892" height="735" style="fill:none;"/>
-<g id="Artboard11" serif:id="Artboard1"><circle cx="222" cy="229" r="171" style="fill:#ff8200;stroke:#ff3932;stroke-width:11.11px;"/>
-<rect x="470.5" y="64.809" width="339" height="335.191" style="fill:#ff8200;stroke:#ff3932;stroke-width:11.11px;"/><path d="M51,495l758.5,0" style="fill:none;stroke:#ff3932;stroke-width:11.11px;"/>
-<text x="51px" y="680.148px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:144px;">Hello</text></g></svg>
-```
-
-It is possible to write images by hand in text like this, we can make changes to the size of the circles, the font name, the text etc.
-
-Below is an example of a hand coded image, by clicking and moving around we can see some of the advantages and disadvantages of this technique
-
-[https://diana-adrianne.com/purecss-lace/](https://diana-adrianne.com/purecss-lace/)
-
