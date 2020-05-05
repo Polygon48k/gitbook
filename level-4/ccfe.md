@@ -2,7 +2,7 @@
 description: 'Digital Media: Still Image Acquisition (SCQF level 4)'
 ---
 
-# CCFE
+# Digital Media: Still Image Acquisition
 
 [https://www.sqa.org.uk/files/nu/F1JY10.pdf](https://www.sqa.org.uk/files/nu/F1JY10.pdf)
 

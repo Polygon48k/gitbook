@@ -82,13 +82,13 @@
 
 * [Core Skills ICT](core-skills-1/core-skills/README.md)
   * [Check Lists](core-skills-1/core-skills/check-lists.md)
-  * [Construction](core-skills-1/core-skills/construction.md)
   * [Research Project](core-skills-1/core-skills/research-project.md)
   * [Test](core-skills-1/core-skills/test.md)
 
 ## Level 4
 
-* [CCFE](level-4/ccfe.md)
+* [Construction ICT](level-4/construction.md)
+* [Digital Media: Still Image Acquisition](level-4/ccfe.md)
 
 ## Higher
 
