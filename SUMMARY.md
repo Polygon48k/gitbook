@@ -72,4 +72,8 @@
     * [Week 1](nc-fashion-and-textiles/digital-fashion-illustration/week-1.md)
     * [Week 2](nc-fashion-and-textiles/digital-fashion-illustration/week-2.md)
     * [Week 3](nc-fashion-and-textiles/digital-fashion-illustration/week-3.md)
+* [HND Digital Design](hnd-digital-design/README.md)
+  * [Audio](hnd-digital-design/audio.md)
+  * [3D Modelling](hnd-digital-design/3d-modelling.md)
+  * [Video](hnd-digital-design/video.md)
 
