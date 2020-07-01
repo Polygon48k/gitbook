@@ -98,7 +98,7 @@ You must use a meaningfull, descriptive name that will give context to the file 
 
 Create a new document using the below settings
 
-![](../../../.gitbook/assets/image%20%2812%29.png)
+![](../../../.gitbook/assets/image%20%2811%29.png)
 
 Now create a self portrait as best you can
 

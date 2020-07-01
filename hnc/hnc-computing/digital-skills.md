@@ -61,7 +61,7 @@ Your report should be written in the College Standard Format, this will include
 
 A cover page can be entered in Word by selecting insert from the toolbar and choosing Cover Page from the far left
 
-![](../../.gitbook/assets/image%20%285%29.png)
+![](../../.gitbook/assets/image%20%284%29.png)
 
 ### Blank Page
 
@@ -71,11 +71,11 @@ In order to meet the college standard you should leave a single blank page after
 
 If you highlight all of your headings and change them to 'Heading 1'
 
-![](../../.gitbook/assets/image%20%289%29.png)
+![](../../.gitbook/assets/image%20%288%29.png)
 
 Then you can you can select Reference, then Table of Contents from the far left - and, it will generate a table of contents for you
 
-![](../../.gitbook/assets/image%20%2811%29.png)
+![](../../.gitbook/assets/image%20%2810%29.png)
 
 ### Introduction
 

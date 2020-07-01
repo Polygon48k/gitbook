@@ -92,7 +92,7 @@ The vertical axis of these representations is described as the amplitude, and ca
 
 The horizontal axis of these representations is described as the wavelength
 
-![](../../../.gitbook/assets/image%20%2813%29.png)
+![](../../../.gitbook/assets/image%20%2811%29%20%281%29.png)
 
 ## Html
 

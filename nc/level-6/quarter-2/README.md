@@ -1,2 +1,2 @@
-# Quarter 2
+# Semester 2
 

@@ -1,15 +1,18 @@
+---
+description: F915 11
+---
+
 # Games Design
 
-[https://www.sqa.org.uk/sqa/files/nu/F91512.pdf](https://www.sqa.org.uk/sqa/files/nu/F91512.pdf)  
-​
+[https://www.sqa.org.uk/files/nq/F91511.pdf](https://www.sqa.org.uk/files/nq/F91511.pdf)
 
-Example [Game Design Document](http://db-design.splashdamage.com.s3-eu-west-1.amazonaws.com/the_art_of_dirty_bomb.pdf)​
-
-{% file src="../../../.gitbook/assets/f915\_11\_iofa\_word.doc" caption="Worksheet" %}
+## Introduction
 
 ## Useful Links
 
-{% embed url="https://www.screenskills.com/education-training/job-profiles/animation-games-and-vfx/games/" %}
+{% embed url="https://www.screenskills.com/careers/job-profiles/games/design/lead-games-designer/" %}
+
+
 
 {% embed url="https://www.youtube.com/user/McBacon1337" %}
 
@@ -78,7 +81,15 @@ Modern systems have large amounts of storage built in and also have different SD
 
 {% embed url="https://www.draw.io/" %}
 
-![](../../../.gitbook/assets/image%20%2815%29.png)
+![](../../../.gitbook/assets/image%20%2813%29.png)
+
+
+
+## Tasks
+
+## Test
+
+{% file src="../../../.gitbook/assets/f915\_11\_iofa\_word.doc" caption="Worksheet" %}
 
 
 
