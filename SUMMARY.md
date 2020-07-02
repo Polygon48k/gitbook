@@ -47,7 +47,7 @@
 ## HNC
 
 * [HNC Computing](hnc/hnc-computing/README.md)
-  * [Digital Skills](hnc/hnc-computing/digital-skills.md)
+  * [Untitled](hnc/hnc-computing/untitled.md)
 * [HNC Digital Design](hnc/hnc-digital-design/README.md)
   * [Digital Graphics Fundamentals](hnc/hnc-digital-design/digital-graphics-fundamentals/README.md)
     * [Week 1](hnc/hnc-digital-design/digital-graphics-fundamentals/week-1.md)
@@ -60,17 +60,15 @@
     * [Week 8](hnc/hnc-digital-design/digital-graphics-fundamentals/week-8.md)
     * [Week 9](hnc/hnc-digital-design/digital-graphics-fundamentals/week-9.md)
     * [Assessment](hnc/hnc-digital-design/digital-graphics-fundamentals/assessment.md)
-  * [Digital Media: Video](hnc/hnc-digital-design/digital-media-video/README.md)
-    * [Week 1](hnc/hnc-digital-design/digital-media-video/week-1.md)
-    * [Week 2](hnc/hnc-digital-design/digital-media-video/week-2.md)
-    * [Week 3](hnc/hnc-digital-design/digital-media-video/week-3.md)
-    * [Week 4](hnc/hnc-digital-design/digital-media-video/week-4.md)
+  * [Team Working in Computing](hnc/hnc-digital-design/team-working-in-computing.md)
 
 ## HND
 
 ---
 
 * [HND Digital Design](hnd-digital-design/README.md)
+  * [Creating a Showreel and Portfolio](hnd-digital-design/creating-a-showreel-and-portfolio.md)
+  * [Interactive Media Composition](hnd-digital-design/interactive-media-composition.md)
   * [Digital Media: Audio](hnd-digital-design/audio.md)
   * [3D Modelling and Animation](hnd-digital-design/3d-modelling.md)
   * [Digital Imaging: Vector Techniques](hnd-digital-design/digital-imaging-vector-techniques.md)
