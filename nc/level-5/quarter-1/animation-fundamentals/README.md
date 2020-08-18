@@ -100,11 +100,11 @@ Large arrows can be used to indicate direction of movement
 
 Here is a Blank Template for you to use
 
-![](../../../.gitbook/assets/storyboard.png)
+![](../../../../.gitbook/assets/storyboard.png)
 
 Here is an example from an animated Series
 
-![](../../../.gitbook/assets/image%20%285%29.png)
+![](../../../../.gitbook/assets/image%20%285%29.png)
 
 ## Motion Tweening
 

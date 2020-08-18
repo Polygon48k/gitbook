@@ -5,7 +5,7 @@
 
 Example [Game Design Document](http://db-design.splashdamage.com.s3-eu-west-1.amazonaws.com/the_art_of_dirty_bomb.pdf)​
 
-{% file src="../../../.gitbook/assets/f915\_11\_iofa\_word.doc" caption="Worksheet" %}
+{% file src="../../../../.gitbook/assets/f915\_11\_iofa\_word.doc" caption="Worksheet" %}
 
 ## Useful Links
 
@@ -78,7 +78,7 @@ Modern systems have large amounts of storage built in and also have different SD
 
 {% embed url="https://www.draw.io/" %}
 
-![](../../../.gitbook/assets/image%20%2813%29.png)
+![](../../../../.gitbook/assets/image%20%2813%29.png)
 
 
 
