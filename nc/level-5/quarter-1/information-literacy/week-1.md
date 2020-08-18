@@ -1,12 +1,26 @@
 # Week 1
 
-## Data and Information
+## Data and Information and Knowledge
 
-Make a note of your answers in a new Word Document, which you will submit save into your OneDrive Folder
+Data is processed by computers, the resulting information can then be used to form judgements and make predictions.
+
+Work your way through the tasks below - make a note of your answers in a new Word Document, which you will save into a one drive folder called 'Information Literacy'
 
 {% hint style="info" %}
 If you get stuck, hints can be found at the bottom of the page
 {% endhint %}
+
+### Task 1
+
+Read pages 1-5 using the link below
+
+{% embed url="https://www.bbc.co.uk/bitesize/guides/zkfbkqt/revision/1\#:~:text=Data%20is%20words%2C%20numbers%2C%20dates,rabbits" %}
+
+
+
+Data is 
+
+
 
 ### Task 1
 
