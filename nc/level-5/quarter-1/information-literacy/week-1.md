@@ -1,6 +1,6 @@
 # Week 1
 
-## Data and Information and Knowledge
+## Data, Information and Knowledge
 
 Data is processed by computers, the resulting information can then be used to form judgements and make predictions.
 
@@ -74,9 +74,9 @@ Look at the graph below, which Nintendo Console sold the most units?
 
 ![](../../../../.gitbook/assets/image%20%2818%29.png)
 
+### 
+
 ### Hints
-
-
 
 {% hint style="info" %}
 Try using Google Translate
