@@ -2,7 +2,7 @@
 
 ## Data and Information
 
-Make a note of your answers in a new Word Document, which you will submit at the end of the class
+Make a note of your answers in a new Word Document, which you will submit save into your OneDrive Folder
 
 {% hint style="info" %}
 If you get stuck, hints can be found at the bottom of the page

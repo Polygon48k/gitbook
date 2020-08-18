@@ -5,6 +5,7 @@
 ## NC
 
 * [NC Computing with Digital Media Level 5](nc/level-5/README.md)
+  * [Introduction](nc/level-5/introduction.md)
   * [Semester 1](nc/level-5/quarter-1/README.md)
     * [Information Literacy](nc/level-5/quarter-1/information-literacy/README.md)
       * [Week 1](nc/level-5/quarter-1/information-literacy/week-1.md)
@@ -32,6 +33,7 @@
     * [Moving Images](nc/level-5/quarter-2/video-editing.md)
     * [3D Modelling and Animation](nc/level-5/quarter-2/3d-modelling-and-animation.md)
     * [Project](nc/level-5/quarter-2/computing-project.md)
+  * [FAQ](nc/level-5/faq.md)
 * [NC Computing with Digital Media Level 6](nc/level-6/README.md)
   * [Semester 1](nc/level-6/quarter-1/README.md)
     * [Games Programming](nc/level-6/quarter-1/games-programming/README.md)
