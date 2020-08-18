@@ -4,6 +4,10 @@
 
 Make a note of your answers in a new Word Document, which you will submit at the end of the class
 
+{% hint style="info" %}
+If you get stuck, hints can be found at the bottom of the page
+{% endhint %}
+
 ### Task 1
 
 Use the internet to find the hidden message in the text below - Make a note of your  answer
@@ -11,10 +15,6 @@ Use the internet to find the hidden message in the text below - Make a note of y
 ```text
 コンピューティングへようこそ
 ```
-
-{% hint style="info" %}
-Try using Google Translate
-{% endhint %}
 
 ### Task 2
 
@@ -24,10 +24,6 @@ Use the internet to find the hidden message - Make a note of your  answer
 بلیوں کتے سے بہتر ہیں
 ```
 
-{% hint style="info" %}
-Try using Google Translate
-{% endhint %}
-
 ### Task 3
 
 Use the internet to find the hidden message - Make a note of your  answer
@@ -35,10 +31,6 @@ Use the internet to find the hidden message - Make a note of your  answer
 ```text
 Mae'r coleg hwn yn yr Alban
 ```
-
-{% hint style="info" %}
-Try using Google Translate
-{% endhint %}
 
 ### Task 4
 
@@ -93,4 +85,20 @@ Binary info with no context
 Data is numbers
 
 Information is human readable and has meaning
+
+Hints
+
+
+
+{% hint style="info" %}
+Try using Google Translate
+{% endhint %}
+
+{% hint style="info" %}
+[https://www.rapidtables.com/convert/number/binary-to-ascii.html](https://www.rapidtables.com/convert/number/binary-to-ascii.html) Binary to text converter
+{% endhint %}
+
+{% hint style="info" %}
+[https://www.rapidtables.com/convert/number/hex-to-ascii.html](https://www.rapidtables.com/convert/number/hex-to-ascii.html) Hex to Text converter
+{% endhint %}
 
