@@ -8,6 +8,10 @@ You access your timetable information using the Calander in Outlook
 
 All work should be saved in OneDrive - You will create a folder for each unit and week. All of your work will be sent to your tutor at the end of the Semester as Evidence. If you do not organise and submit your work, you will not pass.
 
+You should have folders for each Semester, followed by for each unit, followed by each week.
+
+You can access your OneDrive via Outlook or through Windows.
+
 ## What is Brightspace?
 
 Brightspace is our online learning platform
@@ -41,6 +45,10 @@ WebEx Meetings is our video conferencing/calling platform, you will use this to 
 ## How do I access WebEx Meetings?
 
 You can access WebEx via Brightspace
+
+## How should I name my work?
+
+All of your submitted work should include your name, student number, unit name and any other relevant information. If you have completed work, but do not submit it in an appropriate manner or when requested, you fill fail.
 
 
 
