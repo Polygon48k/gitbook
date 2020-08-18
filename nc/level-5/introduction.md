@@ -2,6 +2,8 @@
 
 Welcome to NC Computing with Digital Media course
 
+
+
 You will be taught by three lecturers on this course
 
 | Lewis Sturrock | Heckie Cormack | Charles McCrimmon |
@@ -11,9 +13,5 @@ You will be taught by three lecturers on this course
 
 Video Intro
 
-You can will access your timetable and classes by opening the calander in Outlook
-
-You will save all of your work in named folders using OneDrive
-
-O
+Next please read through the FAQ Section 😁
 
