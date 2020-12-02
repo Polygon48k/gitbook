@@ -91,4 +91,5 @@
 ## Resources
 
 * [Tools & Resources](resources/tools-and-resources.md)
+* [Open Learning Resource](resources/open-learning-resource.md)
 
